@@ -7,3 +7,13 @@
 2026-01-31T14:41:14.999Z [error] : Access denied for user 'Dipesh'@'localhost' (using password: YES)
 2026-01-31T14:41:53.588Z [info] : POST /api/users
 2026-01-31T14:41:53.686Z [error] : Access denied for user 'Dipesh'@'localhost' (using password: YES)
+2026-01-31T14:42:11.173Z [info] : POST /api/users
+2026-01-31T14:46:22.177Z [info] : POST /api/users
+2026-01-31T14:50:48.776Z [info] : POST /api/users
+2026-01-31T14:50:48.780Z [error] : User already exists
+2026-01-31T14:50:55.360Z [info] : POST /api/users
+2026-01-31T15:04:27.044Z [info] : POST /api/users
+2026-01-31T15:06:22.830Z [info] : POST /api/users
+2026-01-31T15:06:22.846Z [info] : POST /api/users
+2026-01-31T15:06:22.854Z [info] : POST /api/users
+2026-01-31T15:06:22.856Z [error] : User already exists
